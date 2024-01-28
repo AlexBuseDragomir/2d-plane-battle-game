@@ -1,0 +1,10 @@
+﻿  CGameApp.cpp
+d:\facultate\cen 2.2\computer graphics\laborator\2d plane battle game\source\cgameapp.cpp(842): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\facultate\cen 2.2\computer graphics\laborator\2d plane battle game\source\cgameapp.cpp(843): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Main.cpp
+  CPlayer.cpp
+  Enemy.cpp
+  Generating Code...
+  Game.vcxproj -> D:\Facultate\CEN 2.2\Computer Graphics\Laborator\2D Plane Battle Game\d_Game.exe

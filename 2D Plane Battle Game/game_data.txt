@@ -1,0 +1,7 @@
+Plane1: 296.68 407.217
+Plane2: 1800 900
+Enemy1: 1463 70
+Enemy2: 929 70
+Enemy3: 671 70
+FriendlyLives: 0
+EnemyLives: 2
