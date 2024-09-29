@@ -4,7 +4,7 @@ Modified by Mihai Popescu (also, some changes have been made after consulting th
 From the resulting basic version, the game has been edited by me.  
 Music : Near's theme A from Death Note. Used only for educational purposes.  
 
-IMPORTANT NOTE: This game is not for sale and was created only in educational purposes.  
+**Important note:** This game is not for sale and was created only in educational purposes.  
 
 New features implemented:
 -> screen maximization, control changes, screen borders, explosions;
