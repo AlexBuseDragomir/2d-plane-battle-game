@@ -1,9 +1,9 @@
-2D Game with Win32 GDI
-Original Framework >>> design by Adam Hoult & Gary Simmons. 
-Modified by Mihai Popescu (also, some changes have been made after consulting the work and ideas of other students).
-From the resulting basic version, the game has been edited by me.
-This game is not for sale and was created only in educational purposes.
-Music : Near's theme A from Death Note.
+2D Game with Win32 GDI  
+Original Framework >>> design by Adam Hoult & Gary Simmons.  
+Modified by Mihai Popescu (also, some changes have been made after consulting the work and ideas of other students).  
+From the resulting basic version, the game has been edited by me.  
+This game is not for sale and was created only in educational purposes.  
+Music : Near's theme A from Death Note. Used only for educational purposes.  
 
 New features implemented:
 -> screen maximization, control changes, screen borders, explosions;
