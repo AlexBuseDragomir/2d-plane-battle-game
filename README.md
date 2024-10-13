@@ -2,6 +2,7 @@
 
 **Original Framework:** Designed by Adam Hoult & Gary Simmons.  
 **Modified by:** Mihai Popescu (with additional changes based on consultations with other students).  
+
 **Music:**
 *   **Track:** Near's Theme A 
     *   **Source:** Death Note
