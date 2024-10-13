@@ -6,7 +6,7 @@
 **Music:**
 *   **Track:** Near's Theme A 
     *   **Source:** Death Note
-    *   **Copyright:** [Original Composer Name] 
+    *   **Copyright:** [Yoshihisa Hirano and Hideki Taniuchi (Death Note Original Soundtrack)] 
     *   **Licensing:** Fair Use for educational purposes. This project is non-commercial. I do not own the copyright to this music.
 
 **Important note:** This game is not for sale and was created only for educational purposes.
