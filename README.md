@@ -1,38 +1,35 @@
-2D Game with Win32 GDI  
-Original Framework >>> design by Adam Hoult & Gary Simmons.  
-Modified by Mihai Popescu (also, some changes have been made after consulting the work and ideas of other students).  
-From the resulting basic version, the game has been edited by me.  
-Music : Near's theme A from Death Note. Used only for educational purposes.  
+# 2D Plane Battle Game
 
-**Important note:** This game is not for sale and was created only in educational purposes.  
+**Original Framework:** Designed by Adam Hoult & Gary Simmons.  
+**Modified by:** Mihai Popescu (with additional changes based on consultations with other students).  
+**Music:** Near's theme A from Death Note. Used only for educational purposes.
 
-New features implemented:
--> screen maximization, control changes, screen borders, explosions;
--> collision detection, fixed the incomplete explosion sprites;
--> new background bitmap, new design for planes;
--> velocity changes, more natural movements;
--> two players, enemy/enemies, capability to shoot bullets;
--> the two players have a total of 3 lives, enabled enemy movements.
--> 3 enemy planes, dealing a total of 3 damage to them will end the game;
--> put on a background song, added a life bar for friendly planes;
--> added load and save options;
+**Important note:** This game is not for sale and was created only for educational purposes.
 
+## New Features
 
-Game controls:
-    
-    ESCAPE         - Exit game
+* Screen maximization, control changes, screen borders, and explosions.
+* Collision detection and fixed incomplete explosion sprites.
+* New background bitmap and new design for planes.
+* Velocity changes for more natural movements.
+* Two players, enemy/enemies, and the capability to shoot bullets.
+* Three lives for the two players and enabled enemy movements.
+* Three enemy planes that end the game when dealt a total of 3 damage.
+* Background music and a life bar for friendly planes.
+* Load and save options.
 
-    Cursor Up      - Move Plane1 Forward
-    Cursor Down    - Move Plane1 Backward
-    Cursor Left    - Move Plane1 Left
-    Cursor Right   - Move Plane1 Right
-    ENTER key      - Explode Plane1
-    
-    'W' key         - Move Plane1 Forward
-    'S' key         - Move Plane1 Backward
-    'A' key         - Move Plane1 Left
-    'D' key         - Move Plane1 Right
-    'Q' key         - Explode Plane2
-    'F1' key        - Save game
-    'F2' key        - Load game
+## Game Controls
 
+* **ESCAPE:** Exit game
+* **Cursor Up:** Move Plane 1 Forward
+* **Cursor Down:** Move Plane 1 Backward
+* **Cursor Left:** Move Plane 1 Left
+* **Cursor Right:** Move Plane 1 Right
+* **ENTER key:** Explode Plane 1
+* **W:** Move Plane 2 Forward
+* **S:** Move Plane 2 Backward
+* **A:** Move Plane 2 Left
+* **D:** Move Plane 2 Right
+* **Q:** Explode Plane 2
+* **F1:** Save game
+* **F2:** Load game
