@@ -2,7 +2,11 @@
 
 **Original Framework:** Designed by Adam Hoult & Gary Simmons.  
 **Modified by:** Mihai Popescu (with additional changes based on consultations with other students).  
-**Music:** Near's theme A from Death Note. Used only for educational purposes.
+**Music:**
+*   **Track:** Near's Theme A 
+    *   **Source:** Death Note
+    *   **Copyright:** [Original Composer Name] 
+    *   **Licensing:** Fair Use for educational purposes. This project is non-commercial. I do not own the copyright to this music.
 
 **Important note:** This game is not for sale and was created only for educational purposes.
 
