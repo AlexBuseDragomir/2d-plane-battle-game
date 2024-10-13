@@ -1,0 +1,28 @@
+# Visual Studio Files
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.filters
+*.vcxproj.filters
+*.sln
+*.pdb
+*.tlog
+*.idb
+*.log
+*.lastbuildstate
+*.opendb
+
+# Compiled Object Files and Libraries
+*.obj
+*.lib
+
+# Executable Files
+*.exe
+*.dll
+
+# Generated Files
+Res/Game.res
+Compiled/
