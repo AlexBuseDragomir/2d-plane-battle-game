@@ -1,5 +1,7 @@
 # 2D Plane Battle Game
 
+A college game design project built in C++, on top of an existing game framework/skeleton. 
+
 **Original Framework:** Designed by Adam Hoult & Gary Simmons.  
 **Modified by:** Mihai Popescu (with additional changes based on consultations with other students).  
 
